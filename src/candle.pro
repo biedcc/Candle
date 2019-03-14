@@ -28,6 +28,7 @@ contains(QT_CONFIG, opengles.) {
 }
 
 TARGET = Candle
+DESTDIR = ./bin/
 TEMPLATE = app
 VERSION = 1.0.12
 RC_ICONS += images/candle.ico

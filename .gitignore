@@ -53,3 +53,8 @@ bin/*
 
 # Idea
 .idea
+
+*.o
+Makefile
+.qmake.stash
+settings.ini
